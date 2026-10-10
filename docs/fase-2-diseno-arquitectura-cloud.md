@@ -2,8 +2,8 @@
 
 **Proyecto:** Migración de aplicación monolítica a Cloud (AWS)
 **Fase:** 2 — Diseño de la Arquitectura en Cloud
-**Autor:** _(completar)_
-**Fecha:** _(completar)_
+**Autor:** Lewis Jesus Reinoso Palomino
+**Fecha:** 09/Oct/2026
 
 ---
 
